@@ -26,6 +26,9 @@ I made this project mainly to practice frontend development and improve my skill
 - Dummy appointment booking form  
 - Sections for doctors, services, and about page
 
-## 🚀 How to Run
+## 📸 Preview
 
-1. Clone the repository  
+![Screenshot 2025-04-13 121732](https://github.com/user-attachments/assets/f19cdaed-3a9d-4e0d-b0d0-da45854bb51a)
+![Screenshot 2025-04-13 121626](https://github.com/user-attachments/assets/5d353628-a871-4f96-ae09-5af8da65cce5)
+![Screenshot 2025-04-13 121652](https://github.com/user-attachments/assets/37174421-5f96-4764-8419-700b301727a8)
+![Screenshot 2025-04-13 121712](https://github.com/user-attachments/assets/af01ea37-0345-4668-a767-cfdcf05b4879)
