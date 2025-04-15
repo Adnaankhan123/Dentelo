@@ -23,7 +23,6 @@ I made this project mainly to practice frontend development and improve my skill
 
 - Simple and clean UI  
 - Responsive design for mobile and desktop  
-- Dummy appointment booking form  
 - Sections for doctors, services, and about page
 
 ## 📸 Preview
